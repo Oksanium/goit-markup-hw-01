@@ -1,7 +1,8 @@
 body { 
     margin: 0;
     font-family: 'Roboto', sans-serif; 
-    color: #000;
+    color: #434455;
+    background-color: #fff;
 }
 
 ol, ul { list-style-type: none; }
