@@ -1,2 +1,1 @@
-# goit-markup-hw-01
-Home Work #1 - HTML
+https://oksanium.github.io/goit-markup-hw-01/
